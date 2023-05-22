@@ -17,7 +17,7 @@ namespace GestionNote.NameSpaceEtudiant
         private int _EtablissementEtudiant;
 
         public Etudiant()
-        {
+        {  
             _IdEtudiant = 0;
             _MatriculeEtudiant = string.Empty;
             _NameEtudiant = string.Empty;
